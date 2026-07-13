@@ -128,28 +128,6 @@ Hoje continuo construindo tecnologia com o mesmo propósito que iniciou essa jor
 
 ---
 
-# 📌 Roadmap
-
-✅ Marca profissional
-
-✅ GitHub
-
-✅ LinkedIn
-
-🟡 Maya AI
-
-🟡 Plataforma SaaS
-
-🟡 Dashboard Inteligente
-
-🔵 Portfólio Pessoal
-
-🔵 Site Profissional
-
-🔵 Dynami.cs
-
----
-
 # 📫 Vamos conversar
 
 <p align="left">
